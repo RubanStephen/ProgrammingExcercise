@@ -1,0 +1,48 @@
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.deps.json
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Business.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Interface.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Models.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Business.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Interface.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Models.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.csprojAssemblyReference.cache
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.csproj.CoreCompileInputs.cache
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.AssemblyInfoInputs.cache
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.AssemblyInfo.cs
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.csproj.CopyComplete
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.deps.json
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Business.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Interface.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Models.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Business.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Interface.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Models.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.csprojAssemblyReference.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.csproj.CoreCompileInputs.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.AssemblyInfoInputs.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.AssemblyInfo.cs
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.csproj.CopyComplete
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.deps.json
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Business.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Interface.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Models.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Business.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Interface.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\bin\Debug\netstandard2.0\ContactManager.Models.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.csprojAssemblyReference.cache
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.csproj.CoreCompileInputs.cache
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.AssemblyInfoInputs.cache
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.AssemblyInfo.cs
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.csproj.CopyComplete
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.DAL\obj\Debug\netstandard2.0\ContactManager.UnitTests.DAL.pdb

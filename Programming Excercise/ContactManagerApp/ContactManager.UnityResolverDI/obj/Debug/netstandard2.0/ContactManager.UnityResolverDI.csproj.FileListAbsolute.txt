@@ -1,0 +1,60 @@
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnityResolverDI.deps.json
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnityResolverDI.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnityResolverDI.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Business.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.DAL.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Interface.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Models.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Business.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.DAL.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Interface.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Models.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.csprojAssemblyReference.cache
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.csproj.CoreCompileInputs.cache
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.AssemblyInfoInputs.cache
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.AssemblyInfo.cs
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.csproj.CopyComplete
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnityResolverDI.deps.json
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnityResolverDI.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnityResolverDI.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Business.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.DAL.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Interface.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Models.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Business.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.DAL.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Interface.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Models.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.csprojAssemblyReference.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.csproj.CoreCompileInputs.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.AssemblyInfoInputs.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.AssemblyInfo.cs
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.csproj.CopyComplete
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnityResolverDI.deps.json
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnityResolverDI.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnityResolverDI.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Business.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.DAL.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Interface.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Models.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Business.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.DAL.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Interface.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.UnitTests.DAL.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\bin\Debug\netstandard2.0\ContactManager.Models.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.csprojAssemblyReference.cache
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.csproj.CoreCompileInputs.cache
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.AssemblyInfoInputs.cache
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.AssemblyInfo.cs
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.csproj.CopyComplete
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnityResolverDI\obj\Debug\netstandard2.0\ContactManager.UnityResolverDI.pdb

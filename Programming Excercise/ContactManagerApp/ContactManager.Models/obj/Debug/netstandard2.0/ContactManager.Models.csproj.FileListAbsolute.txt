@@ -1,0 +1,25 @@
+C:\Billtrust\ContactManagerApp\ContactManager.Models\bin\Debug\netstandard2.0\ContactManager.Models.deps.json
+C:\Billtrust\ContactManagerApp\ContactManager.Models\bin\Debug\netstandard2.0\ContactManager.Models.dll
+C:\Billtrust\ContactManagerApp\ContactManager.Models\bin\Debug\netstandard2.0\ContactManager.Models.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.csproj.CoreCompileInputs.cache
+C:\Billtrust\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.AssemblyInfoInputs.cache
+C:\Billtrust\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.AssemblyInfo.cs
+C:\Billtrust\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.dll
+C:\Billtrust\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.Models\bin\Debug\netstandard2.0\ContactManager.Models.deps.json
+C:\Programming Excercise\ContactManagerApp\ContactManager.Models\bin\Debug\netstandard2.0\ContactManager.Models.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.Models\bin\Debug\netstandard2.0\ContactManager.Models.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.csprojAssemblyReference.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.csproj.CoreCompileInputs.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.AssemblyInfoInputs.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.AssemblyInfo.cs
+C:\Programming Excercise\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.Models\bin\Debug\netstandard2.0\ContactManager.Models.deps.json
+D:\Programming Excercise\ContactManagerApp\ContactManager.Models\bin\Debug\netstandard2.0\ContactManager.Models.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.Models\bin\Debug\netstandard2.0\ContactManager.Models.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.csproj.CoreCompileInputs.cache
+D:\Programming Excercise\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.AssemblyInfoInputs.cache
+D:\Programming Excercise\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.AssemblyInfo.cs
+D:\Programming Excercise\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.Models\obj\Debug\netstandard2.0\ContactManager.Models.pdb

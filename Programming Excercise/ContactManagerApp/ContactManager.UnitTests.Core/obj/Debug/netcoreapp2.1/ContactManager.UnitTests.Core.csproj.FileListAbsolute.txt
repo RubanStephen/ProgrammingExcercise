@@ -1,0 +1,84 @@
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.deps.json
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.runtimeconfig.json
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.runtimeconfig.dev.json
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Business.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.DAL.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Interface.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Models.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.DAL.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnityResolverDI.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.DAL.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnityResolverDI.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Business.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.DAL.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Interface.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Models.pdb
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.csprojAssemblyReference.cache
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.csproj.CoreCompileInputs.cache
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.AssemblyInfoInputs.cache
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.AssemblyInfo.cs
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.csproj.CopyComplete
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.dll
+C:\Billtrust\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.deps.json
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.runtimeconfig.json
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.runtimeconfig.dev.json
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Business.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.DAL.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Interface.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Models.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.DAL.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnityResolverDI.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.DAL.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnityResolverDI.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Business.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.DAL.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Interface.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Models.pdb
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.csprojAssemblyReference.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.csproj.CoreCompileInputs.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.AssemblyInfoInputs.cache
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.AssemblyInfo.cs
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.csproj.CopyComplete
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.dll
+C:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.deps.json
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.runtimeconfig.json
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.runtimeconfig.dev.json
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Business.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.DAL.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Interface.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Models.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.DAL.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnityResolverDI.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnitTests.DAL.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.UnityResolverDI.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Business.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.DAL.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Interface.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\bin\Debug\netcoreapp2.1\ContactManager.Models.pdb
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.csprojAssemblyReference.cache
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.csproj.CoreCompileInputs.cache
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.AssemblyInfoInputs.cache
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.AssemblyInfo.cs
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.csproj.CopyComplete
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.dll
+D:\Programming Excercise\ContactManagerApp\ContactManager.UnitTests.Core\obj\Debug\netcoreapp2.1\ContactManager.UnitTests.Core.pdb
